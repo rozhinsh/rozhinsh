@@ -6,9 +6,10 @@ I'm a Frontend Developer with 4+ years of experience crafting scalable and perfo
 
 ## 🚀 Tech Stack & Tools
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=for-the-badge)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge)
@@ -34,4 +35,3 @@ I'm a Frontend Developer with 4+ years of experience crafting scalable and perfo
 ---
 
 ☕ Fun fact: I love building, sharing knowledge, and sipping coffee while diving into code!
-
