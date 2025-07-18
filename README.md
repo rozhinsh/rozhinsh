@@ -1,40 +1,37 @@
 # Hi, I'm Rozhin Sharifi 👋
 
-I'm a passionate Frontend Developer with over **4 years of experience** designing and building scalable, real-world web applications.  
-My expertise lies in crafting performant and user-friendly interfaces using modern technologies like **React.js**, **Next.js**, and **TypeScript**.
+I'm a Frontend Developer with 4+ years of experience crafting scalable and performant web applications using modern tools and frameworks.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Tech Stack & Tools
 
-- Build robust and maintainable frontend applications with a focus on **clean code** and **best practices**.  
-- Master state management tools including **Redux**, **Context API**, and **Zustand** for scalable application architecture.  
-- Develop forms efficiently using **React Hook Form** combined with powerful schema validators like **Zod** and **Yup**.  
-- Integrate RESTful APIs using **Axios** and native **Fetch** with proper error handling and loading states.  
-- Optimize performance with techniques such as **lazy loading**, **code splitting**, and using tools like **Lighthouse** to deliver fast user experiences.
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge)
+![Zod](https://img.shields.io/badge/-Zod-5F43E9?style=for-the-badge&logoColor=white)
+![Yup](https://img.shields.io/badge/-Yup-20C997?style=for-the-badge)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/-Lighthouse-F44B21?logo=lighthouse&logoColor=fff&style=for-the-badge)
 
 ---
 
-## 🌱 Continuous Learning & Collaboration
+## ✨ About Me
 
-I believe that growth comes through learning and collaboration. I'm constantly enhancing my skills and enjoy working remotely with diverse, dynamic teams on challenging projects.  
-
-Responsibility, commitment, and delivering high-quality code are values I bring to every task I undertake.
+- Passionate about clean code, UI/UX, and web performance.  
+- Enjoy learning, building, and collaborating in remote teams.  
+- Strong believer in consistency, responsibility, and continuous improvement.
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rozhin-sharifi)  
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rozhin-sharifi)
 
 ---
 
-### ⚡ Fun Fact
+☕ Fun fact: I love building, sharing knowledge, and sipping coffee while diving into code!
 
-When I'm not coding, you'll find me exploring new technologies, reading about web performance, or enjoying a good cup of coffee ☕.
-
----
-
-Thanks for stopping by! 🚀
